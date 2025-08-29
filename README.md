@@ -22,7 +22,7 @@ Este projeto é um exemplo de envio de e-mails utilizando PHP e PHPMailer, com i
 
 ## Uso
 
-1. Crie um formulário HTML nos campos`.
+1. Preencha o formulário HTML.
 2. O script PHP processará os dados enviados, validará o formulário e tentará enviar o e-mail.
 3. Ao finalizar, a página exibirá uma mensagem de sucesso ou erro.
 
