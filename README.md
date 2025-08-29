@@ -13,6 +13,7 @@ Este projeto é um exemplo de envio de e-mails utilizando PHP e PHPMailer, com i
 1. Configure seu e-mail e senha de app (para Gmail) no arquivo `enviar_email.php`:
 
 \$mail->Username   = '[email@gmail.com]'; #inserir email
+
 \$mail->Password   = ''; #inserir app password
 
 2. Ajuste o remetente do e-mail:
